@@ -1,0 +1,13 @@
+
+N
+java:S1874'"3Remove this use of "newInstance"; it is deprecated.(¦˜ÈĞøÿÿÿÿ
+B
+java:S1602",Remove useless curly braces around statement(¼ÆÎ
+E
+java:S3740#"/Provide the parametrized type for this generic.(­ôè„
+H
+java:S1068"-Remove this unused "aspectMap" private field.(öÂĞÿÿÿÿÿ
+M
+java:S3655,"7Call "Optional#isPresent()" before accessing the value.(ï±…Ø
+M
+java:S11976"8Move the array designator from the variable to the type.(¬‰´9

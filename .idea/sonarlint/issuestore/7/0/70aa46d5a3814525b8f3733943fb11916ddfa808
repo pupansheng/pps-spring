@@ -1,0 +1,58 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(êÙ‚°
+¤
+java:S1319,"The return type of this method should be an interface such as "ConcurrentMap" rather than the implementation "ConcurrentHashMap".(º›ÔÖüÿÿÿÿ8áé»¡Ì.
+F
+java:S1148‚"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8áé»¡Ì.
+U
+java:S1874:"3Remove this use of "newInstance"; it is deprecated.(¥° “şÿÿÿÿ8ÁÖ¨£Ì.
+u
+java:S1602{"SRemove useless curly braces around statement and then remove useless return keyword(†÷¼»úÿÿÿÿ8áé»¡Ì.
+h	java:S112œ"FDefine and throw a dedicated exception instead of using a generic one.( Ìşÿÿÿÿ8Î›ß¡Ì.
+c
+java:S2147"ECombine this catch with the one at line 127, which has the same body.(Å¡ß8áé»¡Ì.
+a
+java:S2147="DCombine this catch with the one at line 59, which has the same body.(Å¡ß8áé»¡Ì.
+y
+java:S1488D"\Immediately return this expression instead of assigning it to the temporary variable "bean".(ó¿ã8áé»¡Ì.
+E
+java:S1148>"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8áé»¡Ì.
+Q
+java:S3740,"/Provide the parametrized type for this generic.(º›ÔÖüÿÿÿÿ8áé»¡Ì.
+L
+java:S3740!"/Provide the parametrized type for this generic.(ì¯ñˆ8áé»¡Ì.
+?
+java:S1148€"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Q
+java:S3740"/Provide the parametrized type for this generic.(—ÀÑ¤øÿÿÿÿ8áé»¡Ì.
+J
+java:S3740"/Provide the parametrized type for this generic.(ƒ³œÿÿÿÿÿ
+p
+java:S3824P"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(ƒõ¥×ÿÿÿÿÿ8áé»¡Ì.
+>
+java:S1148<"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Q
+java:S3740""/Provide the parametrized type for this generic.(¤„çËúÿÿÿÿ8áé»¡Ì.
+K
+java:S3740q"/Provide the parametrized type for this generic.(øÊ¡k8áé»¡Ì.
+U
+java:S1874t"3Remove this use of "newInstance"; it is deprecated.(ôÕ–£ùÿÿÿÿ8áé»¡Ì.
+E
+java:S1148x"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8áé»¡Ì.
+L
+java:S3740”"/Provide the parametrized type for this generic.(øÊ¡k8áé»¡Ì.
+>
+java:S1148v"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+O
+java:S1874m"3Remove this use of "newInstance"; it is deprecated.(«„å8ÁÖ¨£Ì.
+p
+java:S3776Š"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ÈíùÏ8š¯Ô¡Ì.
+W
+java:S1141s"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8áé»¡Ì.
+b
+java:S2147w"ECombine this catch with the one at line 117, which has the same body.(Å¡ß8áé»¡Ì.
+Q
+java:S3740"/Provide the parametrized type for this generic.(ƒ³œÿÿÿÿÿ8áé»¡Ì.
+F
+java:S1148£"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8áé»¡Ì.

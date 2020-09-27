@@ -1,0 +1,73 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(‹İø¸ùÿÿÿÿ
+>
+java:S1148%"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+a
+java:S2147e"DCombine this catch with the one at line 99, which has the same body.(Å¡ß8°æµ¢Ì.
+J
+java:S3740"/Provide the parametrized type for this generic.(‹İø¸ùÿÿÿÿ
+>
+java:S11484"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(ïÎ«
+N
+java:S18740"3Remove this use of "newInstance"; it is deprecated.(‡›Ÿıÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(ñÕéœøÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(¸§ êıÿÿÿÿ
+M
+java:S3740¡"/Provide the parametrized type for this generic.(÷Ä¦8ÍÃí¢Ì.
+t
+java:S1117_"RRename "beanDefinePostRegsterProcessor" which hides the field declared at line 27.(æëÔøÿÿÿÿ8°æµ¢Ì.
+c
+java:S2147‰"ECombine this catch with the one at line 135, which has the same body.(Å¡ß8¥£¢¢Ì.
+F
+java:S1148ˆ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¥£¢¢Ì.
+Q
+java:S3740E"/Provide the parametrized type for this generic.(¥íâøûÿÿÿÿ8™ùü¡Ì.
+E
+java:S3740:"/Provide the parametrized type for this generic.(ƒÛ…¾
+K
+java:S3740o"/Provide the parametrized type for this generic.(æåÔ	8¥£¢¢Ì.
+E
+java:S1148f"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8°æµ¢Ì.
+F
+java:S1148´"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÍÃí¢Ì.
+Z
+java:S2147&"DCombine this catch with the one at line 36, which has the same body.(Å¡ß
+Z
+java:S21473"DCombine this catch with the one at line 49, which has the same body.(Å¡ß
+Q
+java:S1874­"3Remove this use of "newInstance"; it is deprecated.(í¡ĞØ8ÍÃí¢Ì.
+E
+java:S3740"/Provide the parametrized type for this generic.(ïÎ«
+Q
+java:S1874"3Remove this use of "newInstance"; it is deprecated.(í¡ĞØ8¥£¢¢Ì.
+¨
+java:S1319:"‘The type of the "concurrentSkipListMap" object should be an interface such as "ConcurrentMap" rather than the implementation "ConcurrentHashMap".(ƒÛ…¾
+E
+java:S1148d"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8°æµ¢Ì.
+U
+java:S1874_"3Remove this use of "newInstance"; it is deprecated.(æëÔøÿÿÿÿ8°æµ¢Ì.
+o
+java:S3776:"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ƒÛ…¾8‰ØÌ¢Ì.
+L
+java:S3740R"/Provide the parametrized type for this generic.(ıŸû8‰ØÌ¢Ì.
+K
+java:S3740o"/Provide the parametrized type for this generic.(æåÔ	8¥£¢¢Ì.
+M
+java:S3740¡"/Provide the parametrized type for this generic.(÷Ä¦8ÍÃí¢Ì.
+>
+java:S1148'"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+>
+java:S11482"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+F
+java:S1148Š"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¥£¢¢Ì.
+F
+java:S1148¶"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÍÃí¢Ì.
+N
+java:S1874#"3Remove this use of "newInstance"; it is deprecated.(ç‘µÍüÿÿÿÿ
+c
+java:S2147µ"ECombine this catch with the one at line 179, which has the same body.(Å¡ß8ÍÃí¢Ì.
